@@ -17,7 +17,10 @@ Fork it a pull your new ideas
 
 Sub-projects added till now (See application/license.txt for more details)
 ---------------------------------------------------------------------------
-AdminLTE 2.1.1 https://github.com/almasaeed2010/AdminLTE
-Assets Helper https://github.com/sekati/codeigniter-asset-helper
-CodeIgiter Enqueue https://github.com/zajohnson/CodeIgniter-enqueue
-PHP-Hooks https://github.com/bainternet/PHP-Hooks
+'AdminLTE 2.1.1 <https://github.com/almasaeed2010/AdminLTE>'
+
+'Assets Helper <https://github.com/sekati/codeigniter-asset-helper>'
+
+'CodeIgiter Enqueue <https://github.com/zajohnson/CodeIgniter-enqueue>'
+
+'PHP-Hooks <https://github.com/bainternet/PHP-Hooks>'
