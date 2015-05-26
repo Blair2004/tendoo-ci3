@@ -6,9 +6,9 @@ Another CMS using CodeIgniter.
 
 Why ?
 ------
-This repository is a web projet collection. We use popular Classes and Library (both JS and PHP) to create a more powerfull CMS based on CodeIgniter.
-We are also inspired buy existing CMS (for not wasting time creating a new wheel) and use popular API such as Plugin API from WordPress.
-This projet is a best collection of several solution out there bring out by contributors around the world, which love CI.
+This repository is a web projet collection. We use popular Classes and Libraries (both JS and PHP) to create a more powerful CMS based on CodeIgniter.
+We are also inspired by existing CMS (for not wasting time reinventing the wheel) and use popular API such as Plugin API from WordPress.
+This projet is a best collection of several solutions, brings out by contributors around the world, which love CI.
 As you may see, this new generation of Tendoo-cms is using latest generation of CodeIgniter (V3).
 
 Do you want to get Involved ?
