@@ -1,0 +1,1 @@
+before_admin_menu : trigger action before admin menu init
